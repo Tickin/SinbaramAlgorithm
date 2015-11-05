@@ -7,3 +7,4 @@
 <참가자><br>
 `장병엽 (Tickin)`<br>
 `권은 (eun95)`<br>
+`김가영 (zaiha)`<br>
