@@ -10,3 +10,11 @@
 `권은 (eun95)`<br>
 `김가영 (zaiha)`<br>
 `정호용 (hyjung888)`<br>
+
+<정책><br>
+`차후 추가될 예정입니다.`<br>
+-Header 파일 수정 시 
+  Retunr_Type Function_Name(argvs...) {
+    //To Do
+  }
+  의 구조를 따라주시기 바랍니다.
