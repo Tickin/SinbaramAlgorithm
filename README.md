@@ -9,9 +9,16 @@
 `차후 추가될 예정입니다.`<br>
 -Header 파일 수정 시 <br>
 
+    /*************** (star x 15)
+    Information of argvs
+    
     Return_Type Function_Name(argvs...) {
       //To Do
     }
+    
+    How to Use
+    
+    ***************/ (star x 15)
   의 구조를 따라주시기 바랍니다.
 
 
