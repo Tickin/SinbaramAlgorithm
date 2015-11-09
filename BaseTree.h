@@ -1,7 +1,7 @@
 #ifndef BASE_TREE
 #define BASE_TREE
 
-<Template T>
+template <typename T>
 class Node{
 protected:
 	T data;
@@ -9,18 +9,14 @@ protected:
 public:
 };
 
-<Template T>
+template <typename T>
 class Tree{
 protected:
-	Node* Root;
+	Node<T>* Root;
 	unsigned int size;
 public:
 };
 
-/***************
-
 //Function Generate Here
-
-***************/
 
 #endif
