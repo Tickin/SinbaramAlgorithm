@@ -1,5 +1,6 @@
 ﻿<h2>2번째 주 미션</h2>
 1. [JumpGame](https://algospot.com/judge/problem/read/JUMPGAME#)<br>
+2. [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME#)<br>
 
 <h2>참고</h2>
 * 스터디 미션은 bash 또는 cmd에서 저장소 폴더로 이동 후, git pull https://github.com/Tickin/SinbaramAlgorithm 을 입력하시면 자동으로 merge 됩니다.
