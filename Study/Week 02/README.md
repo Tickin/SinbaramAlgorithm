@@ -2,6 +2,9 @@
 1. [JumpGame](https://algospot.com/judge/problem/read/JUMPGAME#)<br>
 2. [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME#)<br>
 
+<h2>필독!!</h2>
+-> 각자 정답이 나온 코드나 현재까지 완료한 코드를 소스파일 폴더에 넣어주세요
+
 <h2>참고</h2>
 * 스터디 미션은 bash 또는 cmd에서 저장소 폴더로 이동 후, git pull https://github.com/Tickin/SinbaramAlgorithm 을 입력하시면 자동으로 merge 됩니다.
 * 스터디 미션은 원래 저장소 즉, 제 저장소에 다시 request 를 보내실 필요가 없습니다.
