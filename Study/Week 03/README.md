@@ -1,5 +1,6 @@
 ﻿<h2>3번째 주 미션</h2>
 1. [PaperGame](https://www.acmicpc.net/problem/1780)<br>
+2. [RGBdistance](https://www.acmicpc.net/problem/1149)<br>
 
 <h2>필독!!</h2>
 -> 각자 정답이 나온 코드나 현재까지 완료한 코드를 소스파일 폴더에 넣어주세요
