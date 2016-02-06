@@ -30,8 +30,6 @@
 `이제언(musicianZem)`<br>
 `박훈민(goat2015)`<br>
 `김지용(coconot01)`<br>
-<<<<<<< HEAD
 `허형록(syndrome5044)`<br>
-=======
-`정수희(suheeeee)
+`정수희(suheeeee)`<br>
 >>>>>>> 0f027784227d01a1edb1b95a0792ebfb978a8079
