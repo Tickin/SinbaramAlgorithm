@@ -2,7 +2,6 @@
 1. [피보나치 2](https://www.acmicpc.net/problem/2748)<br>
 1. [피보나치 3](https://www.acmicpc.net/problem/2749)<br>
 1. [피보나치 4](https://www.acmicpc.net/problem/10826)<br>
-1. [피보나치 5](https://www.acmicpc.net/problem/10870)<br>
 1. [피보나치 6](https://www.acmicpc.net/problem/11444)<br>
 
 <h2>필독!!</h2>
