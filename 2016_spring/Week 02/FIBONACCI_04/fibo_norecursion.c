@@ -2,8 +2,8 @@
 
 unsigned int N;
 
-unsigned int fibo(int n) {
-    unsigned int T0, T1, T2;
+unsigned long long int fibo(int n) {
+    unsigned long long int T0, T1, T2;
     int i;
 
     if (n < 2)
@@ -12,7 +12,7 @@ unsigned int fibo(int n) {
         T0 = 0;
         T1 = 1;
         for(i = 1; i < n; i++) {
-            T2 = (T0 + T1) % 1000000;
+            T2 = T0 + T1;
             T0 = T1;
             T1 = T2;
         }
@@ -23,7 +23,7 @@ unsigned int fibo(int n) {
 int main() {
     scanf("%d", &N);
 
-    printf("%u", fibo(N));
+    printf("%llu", fibo(N));
 
     return 0;
 }
