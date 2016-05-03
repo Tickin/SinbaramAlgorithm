@@ -1,4 +1,4 @@
-﻿<h2>2번째 주 미션 (피보나치 수열)</h2>
+﻿<h2>2번째 주 미션 (Disjoint Set)</h2>
 1. [집합의표현](https://www.acmicpc.net/problem/1717)<br>
 1. [마블](https://www.acmicpc.net/problem/2843)<br>
 
