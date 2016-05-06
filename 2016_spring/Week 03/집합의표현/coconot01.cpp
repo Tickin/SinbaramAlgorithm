@@ -10,21 +10,15 @@ int cache[1000001];
 
 int findRoot(int start)
 {
-	vector<int> tmpVec;
 	while (cache[start] != start)
 	{
-		tmpVec.push_back(start);
 		start = cache[start];
-	}
-	for (vector<int>::iterator it = tmpVec.begin(); it != tmpVec.end(); it++) {
-		cache[*it] = start;
 	}
 	return start;
 }
 
 int main()
 {
-	memset(cache, -1, sizeof(cache));
 	int N, M; scanf("%d %d", &N, &M);
 	for (int i = 0; i <= N; i++)
 	{
